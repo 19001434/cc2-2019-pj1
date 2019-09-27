@@ -5,7 +5,7 @@
 **Tema:** Pilas, Colas, Paquetes, Herencia y Threads\
 **Fecha de Entrega:** 6 de octubre de 2019\
 **Grupo:** Parejas\
-**Calificacion personal:** Nosotros le indicaremos la fecha.
+**Calificacion personal:** Nosotros le indicaremos la fechas.
 
 ------------------------------------------------------------------------------
 
