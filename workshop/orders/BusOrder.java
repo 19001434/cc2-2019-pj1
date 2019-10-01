@@ -1,3 +1,8 @@
+/** BusOrder.java
+ ** Hecho por: Pablo Say
+ ** Carnet: 19001434
+ ** Sección: A
+**/	
 package workshop.orders;
 public class BusOrder extends PaintOrder{
     protected double price;
